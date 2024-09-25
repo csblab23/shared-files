@@ -34,7 +34,7 @@ SSH port: 22
 Use a Browser on your local machine to go to:
 http://localhost:${port}  (prefix w/ https:// if using password)
 Use the token string from the URL printed in slurm-<jobId>.out file and paste it to the local sysytem's browser
-
+"
 
 # load modules or conda environments here
 # e.g. farnam:
